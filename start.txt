@@ -1,1 +1,2 @@
+Testing the merging of branches
 Test git quick start demo
